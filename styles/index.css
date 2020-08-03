@@ -1,0 +1,7 @@
+@import 'productCard.css';
+@import 'productsContainer.css';
+@import 'searchField.css';
+
+body {
+  background-color: #f7f7f7;  
+}
